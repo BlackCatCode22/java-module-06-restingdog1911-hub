@@ -1,0 +1,164 @@
+Name: Shenzi
+ID: hy01
+Age: 4
+SeX: female
+Weight: 70
+color: tan color
+Origin: Friguia Park, Tunisia
+Birth Date: 2021-02-29
+Arrival Date: 2025-10-28
+
+Name: Banzai
+ID: hy02
+Age: 12
+SeX: male
+Weight: 150
+color: brown color
+Origin: Friguia Park, Tunisia
+Birth Date: 2013-02-29
+Arrival Date: 2025-10-28
+
+Name: Ed
+ID: hy03
+Age: 4
+SeX: male
+Weight: 120
+color: black color
+Origin: Friguia Park, Tunisia
+Birth Date: 2021-02-29
+Arrival Date: 2025-10-28
+
+Name: Zig
+ID: hy04
+Age: 8
+SeX: female
+Weight: 105
+color: black and tan striped color
+Origin: Friguia Park, Tunisia
+Birth Date: 2017-02-29
+Arrival Date: 2025-10-28
+
+Name: Scar
+ID: li01
+Age: 6
+SeX: female
+Weight: 300
+color: tan color
+Origin: Zanzibar, Tanzania
+Birth Date: 2019-02-29
+Arrival Date: 2025-10-28
+
+Name: Mufasa
+ID: li02
+Age: 12
+SeX: female
+Weight: 375
+color: dark tan color
+Origin: KopeLion, Tanzania
+Birth Date: 2013-02-29
+Arrival Date: 2025-10-28
+
+Name: Simba
+ID: li03
+Age: 22
+SeX: male
+Weight: 450
+color: golden color
+Origin: Zanzibar, Tanzania
+Birth Date: 2003-02-29
+Arrival Date: 2025-10-28
+
+Name: Kiara
+ID: li04
+Age: 4
+SeX: female
+Weight: 275
+color: tan and brown color
+Origin: KopeLion, Tanzania
+Birth Date: 2021-02-29
+Arrival Date: 2025-10-28
+
+Name: Tony
+ID: ti01
+Age: 2
+SeX: male
+Weight: 270
+color: gold and tan stripes color
+Origin: Dhaka, Bangladesh
+Birth Date: 2023-02-29
+Arrival Date: 2025-10-28
+
+Name: Tigger
+ID: ti02
+Age: 4
+SeX: female
+Weight: 400
+color: black stripes color
+Origin: Dhaka, Bangladesh
+Birth Date: 2021-02-29
+Arrival Date: 2025-10-28
+
+Name: Amber
+ID: ti03
+Age: 18
+SeX: male
+Weight: 300
+color: gold and tan color
+Origin: Bardia, Nepal
+Birth Date: 2007-02-29
+Arrival Date: 2025-10-28
+
+Name: Cosimia
+ID: ti04
+Age: 3
+SeX: female
+Weight: 285
+color: black stripes color
+Origin: Bardia, Nepal
+Birth Date: 2022-02-29
+Arrival Date: 2025-10-28
+
+Name: Yogi
+ID: be01
+Age: 7
+SeX: male
+Weight: 320
+color: brown color
+Origin: Alaska Zoo, Alaska
+Birth Date: 2018-02-29
+Arrival Date: 2025-10-28
+
+Name: Smokey
+ID: be02
+Age: 25
+SeX: female
+Weight: 425
+color: black color
+Origin: Woodland park Zoo, Washington 
+Birth Date: 2000-02-29
+Arrival Date: 2025-10-28
+
+Name: Paddington
+ID: be03
+Age: 4
+SeX: female
+Weight: 355
+color: black color
+Origin: Woodland park Zoo, Washington 
+Birth Date: 2021-02-29
+Arrival Date: 2025-10-28
+
+Name: Lippy
+ID: be04
+Age: 4
+SeX: male
+Weight: 405
+color: brown color
+Origin: Alaska Zoo, Alaska
+Birth Date: 2021-02-29
+Arrival Date: 2025-10-28
+
+Number of hyenas: 4
+Number of tiger: 4
+Number of bear: 4
+Number of lion: 4
